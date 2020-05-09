@@ -1,0 +1,141 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+body{
+  height:100vh;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+
+.box{
+  position:relative;
+  width:500px;
+  height:500px;
+  background:none;
+  display:block;
+  border:2px solid;
+}
+
+.cover{
+  position: absolute;
+  left:18%;
+  width:70%;
+  height:90%;
+  border: 4px solid #9e9e9e;
+  background: #03a9f4;
+}
+
+.inside-cover{
+  position: absolute;
+  left:3%;
+  top:5%;
+  width:94%;
+  height:90%;
+  border:4px solid #9e9e9e;
+  background:#00e676;
+}
+
+.inside-box{
+  position: absolute;
+  left:16.5%;
+  top:12.5%;
+  width:65%;
+  height:70%;
+  border:4px solid ;
+  background:#03a9f4 ;
+}
+.oval{
+  position: absolute; 
+  width:30%;
+  height:25%;
+  border:4px solid;
+  background:#03a9f4;
+  border-radius:70%;
+}
+.oval1{
+  left:35%;
+  top:5%;
+}
+
+.oval2{
+  left:35%;
+  bottom:5%;
+}
+
+.oval3{
+  left:5%;
+  top:35%;
+}
+.oval4{
+  right:5%;
+  top:35%;
+} 
+.inside-box-copy{
+  position: absolute;
+  left:18%;
+  top:13.6%;
+  width:62%;
+  height:68%;
+  background:#03a9f4 ;
+}
+
+.center-circel{
+  position: absolute;
+  top:40%;
+  left:38.5%;
+  width:23%;
+  height:20%;
+  border: solid;
+  background:#ffb74d;
+  border-radius:70%;
+}
+
+.dos{
+  position: absolute;
+  left:10%;
+  width:8%;
+  height:94%;
+  border: 4px solid #9e9e9e;
+  border-right:none;
+  border-top-left-radius:50px;
+  background: #03a9f4;
+}
+
+.pages{
+  position: absolute;
+  left:10%;
+  top:90%;
+  width:78%;
+  height:8%;
+  border:solid;
+  border-radius:50px;
+  background:#fff;
+  border-right:none;
+  border-top-right-radius:0;
+  border-bottom-right-radius:0;
+  overflow:hidden;
+}
+.line{
+  position: absolute;
+  width:60%;
+  top:40%;
+  left:10%;
+  height:12%;
+  background:#000;
+  border-radius:50px;
+  
+}
+.trick{
+  position: absolute;
+  width:8%;
+  top:-5%;
+  right:-4%;
+  height:110%;
+  background:#fff;
+  border:3px solid;
+  border-radius:50%;
+}
