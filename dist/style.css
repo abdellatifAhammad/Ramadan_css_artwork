@@ -20,7 +20,7 @@ body{
   background: none;
   display: block;
   padding-top: 4px;
-  border: 2px solid;
+  /* border: 2px solid; */
 }
 
 .cover{
