@@ -13,8 +13,8 @@
  A Pen created at CodePen.io. 
  > Original URL: [https://codepen.io/abdellatif123456/pen/pmWPeW](https://codepen.io/abdellatif123456/pen/pmWPeW).
 
-#### this css art  created by [**Abdellatif Ahammad**](https://www.linkden.com/in/abdellatif-ahammad)
+#### this css art  created by [**Abdellatif Ahammad**](https://www.linkedin.com/in/abdellatif-ahammad)
 ---
-you can find me on linkedin : https://www.linkden.com/in/abdellatif-ahammad
+you can find me on linkedin : https://www.linkedin.com/in/abdellatif-ahammad
 or contact me by email abdellatif.ahammad@gmail.com
 :smile: 
